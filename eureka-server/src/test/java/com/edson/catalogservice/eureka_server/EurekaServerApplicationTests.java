@@ -1,10 +1,10 @@
-package com.desafioDioNtt.desafio_spring_dio_ntt;
+package com.edson.catalogservice.eureka_server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DesafioSpringDioNttApplicationTests {
+class EurekaServerApplicationTests {
 
 	@Test
 	void contextLoads() {
