@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/catalog-order-microservices-DIO.iml" filepath="$PROJECT_DIR$/.idea/catalog-order-microservices-DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-spring-dio-ntt/desafio-spring-dio-ntt.iml" filepath="$PROJECT_DIR$/desafio-spring-dio-ntt/desafio-spring-dio-ntt.iml" />
     </modules>
   </component>
 </project>
